@@ -1,0 +1,29 @@
+body {
+    background: rgb(187, 235, 238); 
+    margin-left: 40px;
+}
+
+header {
+    margin-top: 100px;
+}
+h1 {
+    color: red; 
+    font-size: 100px; 
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-family: fantasy;
+}
+p {
+    font-size: 18px;
+}
+
+.img_padrao {
+    margin-bottom: 40px;
+    width: 300px;
+}
+
+.logo_2 {
+    width: 40px;
+}
